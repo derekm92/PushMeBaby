@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E62AA02-32C0-4F4B-BA88-6439885D3BA2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PushMeBaby</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>57B4DB41-FC11-4AFA-A81D-99D66C6578DE</key>
+		<string>https://github.com/derekm92/PushMeBaby</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PushMeBaby.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>57B4DB41-FC11-4AFA-A81D-99D66C6578DE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/derekm92/PushMeBaby</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>57B4DB41-FC11-4AFA-A81D-99D66C6578DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>57B4DB41-FC11-4AFA-A81D-99D66C6578DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PushMeBaby</string>
+		</dict>
+	</array>
+</dict>
+</plist>
